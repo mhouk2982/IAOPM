@@ -210,7 +210,7 @@ background-color: #335d2d;
 
 /* Small Screen Viewport */
 
-@media (max-width: 975px) {
+@media (max-width: 1300px) {
 
   .bbqtray{
     height: 40rem;
